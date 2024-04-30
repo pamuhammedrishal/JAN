@@ -1,4 +1,4 @@
 a='Rohan'
-b='myran'
+b='janu'
 print(a,b)
 
